@@ -1,3 +1,13 @@
+# Live Deployment
+
+This Project was deployed using [Netlify]()
+
+# Project Notes
+
+- Appreciation for [Thirdweb](https://thirdweb.com/) for making it easy to develop webapps in conjunction with Web3
+- Pulling data from [OpenSea](https://opensea.io/) using [Axios](https://www.axios.com/)
+- Basic use of react Hooks such as useState and UseEffect for data and state management
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
