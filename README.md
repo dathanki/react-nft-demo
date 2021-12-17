@@ -8,6 +8,14 @@ This Project was deployed using [Firebase](https://cryptopunks-react.web.app/)
 - Pulling data from [OpenSea](https://opensea.io/) using [Axios](https://www.axios.com/)
 - Basic use of react Hooks such as useState and UseEffect for data and state management
 
+# Some screenshots
+
+![Landing page](https://firebasestorage.googleapis.com/v0/b/cryptopunks-react.appspot.com/o/1.JPG?alt=media&token=5903c359-dc4b-4f27-a403-6638812e38fb)
+
+![Dynamic updating of main cover cruptopunk](https://firebasestorage.googleapis.com/v0/b/cryptopunks-react.appspot.com/o/2.JPG?alt=media&token=451a0fe4-2bb1-40b9-ac95-84f1df6651a0)
+
+![Creation and ownership logs on Opensea](https://firebasestorage.googleapis.com/v0/b/cryptopunks-react.appspot.com/o/3.JPG?alt=media&token=717fe41b-510f-4ba8-bb68-cc4a5a5b28f7)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
